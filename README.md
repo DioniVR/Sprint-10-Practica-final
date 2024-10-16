@@ -17,10 +17,9 @@ https://analisi.transparenciacatalunya.cat/Comer-/Registre-de-llic-ncies-comerci
 1 - Limpieza, Transformación de Datos, gestión de outliers y análisis de correlaciones con Python: 
 PROYECTO FINAL LIMPIEZA Y ANALISIS CON PYTHON.ipynb 
 
-2 - Este script generará un csv  que usará posteriormente Powerbi para hacer el Dashboard.
-
-3 - Modelado de datos, creación de médidas DAX y dashboard  con Powerbi.
+2 - Modelado de datos, creación de médidas DAX y dashboard  con Powerbi.
 PROYECTO  UNIDO A PYTHON - FINAL.pbix
+
 
 🛠  Herramientas Utilizadas:
 
@@ -34,7 +33,7 @@ DAX: Para la creación de medidas dinámicas dentro de Power BI.
 
 Clona este repositorio y asegúrate de tener instaladas las dependencias necesarias.
 Carga el dataset desde el enlace proporcionado.
-Ejecuta los scripts en Python para limpiar y preparar los datos.
+Ejecuta los scripts en Python para limpiar y preparar los datos. Se generará un CSV con los datos limpios que usará posteriomente PowerBi.
 Abre el archivo de Power BI para explorar las visualizaciones e insights generados.
 
 
