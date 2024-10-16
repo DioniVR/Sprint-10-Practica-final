@@ -17,7 +17,7 @@ https://analisi.transparenciacatalunya.cat/Comer-/Registre-de-llic-ncies-comerci
 1 - Limpieza, Transformación de Datos, gestión de outliers y análisis de correlaciones con Python: 
 PROYECTO FINAL LIMPIEZA Y ANALISIS CON PYTHON.ipynb 
 
-2 - Este script generará un csv que servirá que usará posteriormente Powerbi para hacer el Dashboard.
+2 - Este script generará un csv  que usará posteriormente Powerbi para hacer el Dashboard.
 
 3 - Modelado de datos, creación de médidas DAX y dashboard  con Powerbi.
 PROYECTO  UNIDO A PYTHON - FINAL.pbix
