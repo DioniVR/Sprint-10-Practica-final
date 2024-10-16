@@ -15,9 +15,11 @@ https://analisi.transparenciacatalunya.cat/Comer-/Registre-de-llic-ncies-comerci
 🔑 Características Principales:
 
 1 - Limpieza, Transformación de Datos, gestión de outliers y análisis de correlaciones con Python: 
-PROYECTO FINAL LIMPIEZA Y ANALISIS CON PYTHON.ipynb
+PROYECTO FINAL LIMPIEZA Y ANALISIS CON PYTHON.ipynb 
 
-2 - Modelado de datos, creación de médidas DAX y dashboard  con Powerbi.
+2 - Este script generará un csv que servirá que usará posteriormente Powerbi para hacer el Dashboard.
+
+3 - Modelado de datos, creación de médidas DAX y dashboard  con Powerbi.
 PROYECTO  UNIDO A PYTHON - FINAL.pbix
 
 🛠  Herramientas Utilizadas:
@@ -40,5 +42,7 @@ Abre el archivo de Power BI para explorar las visualizaciones e insights generad
 👥 Personas Desarrolladoras:Este proyecto fue desarrollado por:
 
 Dionisio Vázquez - Especialista en análisis de datos y visualización.
+
+
 
 
